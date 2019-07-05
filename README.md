@@ -1,2 +1,3 @@
 # VFX-Graph
-Temp repo
+
+Repository to host VFX graph examples made in Unity
